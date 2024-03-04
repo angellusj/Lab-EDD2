@@ -1,4 +1,4 @@
-# Prova de algoritmos e estruturas de dados II
+# Prova de Algoritmos e Estruturas de Dados II
 
 ## Doscente:
 [Kennedy Reurison Lopes](https://github.com/kennedyufersa)
