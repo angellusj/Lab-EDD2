@@ -1,7 +1,7 @@
 # Prova de Algoritmos e Estruturas de Dados II
 
 ## Doscente:
-[Kennedy Reurison Lopes](https://github.com/kennedyufersa)
+   [Kennedy Reurison Lopes](https://github.com/kennedyufersa)
 
 ## Discentes:
 - [Andrews Ferreira de Paiva Silva](https://github.com/TheFonci)
@@ -22,9 +22,9 @@ programa lê o número sete, ele deve imprimir *******.
 
 5)  Escreva dois programas que recebem como parâmetro três inteiros representando os coeficientes de uma função do segundo grau e execute:
    
-(a) O teste para saber se essa função tem raízes reais; 
+   (a) O teste para saber se essa função tem raízes reais; 
 
-(b) O valor das raízes reais.
+   (b) O valor das raízes reais.
 
 6)  Escreva uma função recursiva para calcular o Máximo Divisor de dois números inteiros.
 
@@ -36,11 +36,11 @@ programa lê o número sete, ele deve imprimir *******.
 
 10)  Implemente a função recursiva a seguir definida por A(m, n) definido recursivamente da seguinte forma:
     
-(a) n + 1, se m = 0; 
+   (a) n + 1, se m = 0; 
 
-(b) A(m − 1, 1), se m > 0, n = 0; 
+   (b) A(m − 1, 1), se m > 0, n = 0; 
 
-(c) A(m − 1, A(m, n − 1)), se m > 0 e n > 0. 
+   (c) A(m − 1, A(m, n − 1)), se m > 0 e n > 0. 
 
 Crie uma função auxiliar que recebe dois inteiros a e b e apresenta todos os resultados para A(x, y) de forma que x < a e y < b.
   
