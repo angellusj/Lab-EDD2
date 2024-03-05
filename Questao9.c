@@ -20,7 +20,7 @@ int produtoRecursivo(int x1, int x2)
     } 
 
     if(x2 == 0){
-        return x1;
+        return 0;
     }
 
     return x1 + produtoRecursivo(x1, x2 - 1);
